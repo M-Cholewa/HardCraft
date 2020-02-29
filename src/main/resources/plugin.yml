@@ -1,0 +1,4 @@
+name: HardCraft
+version: ${project.version}
+main: krepo.seshcoders.hardcraft.HardCraft
+api-version: 1.13
